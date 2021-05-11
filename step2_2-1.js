@@ -2,7 +2,7 @@
 
 var nums = [1,3,5,8,4];
 var count = 0;
-for(var i = 0;i<nums.length;i++){
+for(var i = 0;i < nums.length;i++){
   count = count + nums[i]
 }
 
